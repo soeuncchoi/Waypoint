@@ -8,10 +8,10 @@ body {
   background-color: #f8f8f8;
   color: #333;
   line-height: 1.5;
-  -webkit-tap-highlight-color: transparent; /* 터치 효과 제거 */
+  -webkit-tap-highlight-color: transparent;
 }
 .container {
-  max-width: 428px; /* iPhone 14 Pro Max 기준 */
+  max-width: 428px;
   width: 100%;
   margin: 0 auto;
   padding: 20px;
@@ -34,7 +34,3 @@ body {
   border-radius: 10px;
   box-shadow: 0px 4px 6px rgba(0,0,0,0.1);
 }
-<div class="card">
-    <h3>공지사항</h3>
-    <p>새로운 업데이트가 있습니다.</p>
-</div>
